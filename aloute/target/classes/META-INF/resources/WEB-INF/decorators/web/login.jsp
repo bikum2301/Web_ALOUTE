@@ -63,18 +63,7 @@
                                     <i class="fa fa-key"></i>Đăng nhập
                                     <span>Xin hoan nghênh người đẹp hãy đăng nhập để gia giập mạng xã hội của những người đẹp trai sinh gái</span>
                                 </div>
-                                <form class="we-form" method="post">
-                                    <input type="text" placeholder="Email">
-                                    <input type="password" placeholder="Mật khẩu">
-                                    <input type="checkbox"><label>Nhớ tôi</label>
-                                    <button type="submit" data-ripple="">Đăng nhập</button>
-                                    <a class="forgot underline" href="#" title="">Quên mật khẩu?</a>
-                                </form>
-                                <a class="with-smedia facebook" href="#" title="" data-ripple=""><i class="fa fa-facebook"></i></a>
-                                <a class="with-smedia twitter" href="#" title="" data-ripple=""><i class="fa fa-twitter"></i></a>
-                                <a class="with-smedia instagram" href="#" title="" data-ripple=""><i class="fa fa-instagram"></i></a>
-                                <a class="with-smedia google" href="#" title="" data-ripple=""><i class="fa fa-google-plus"></i></a>
-                                <span>Chưa có tài khoản? <a class="we-account underline" href="#" title="">Đăng ký ngay</a></span>
+                                    <sitemesh:write property="body" />
                             </div>
                         </div>
 
