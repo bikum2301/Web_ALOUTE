@@ -43,25 +43,13 @@
                                 <p>
                                     Hãy tham gia Aloute ngay hôm nay để kết nối với những người bạn tuyệt vời, khám phá những câu chuyện thú vị và xây dựng cộng đồng của riêng bạn. Chỉ vài bước đơn giản, bạn sẽ bước vào một thế giới đầy cơ hội và trải nghiệm đáng nhớ.
                                 </p>
-
-                                <div class="barcode">
-                                    <figure><img src="/static/images/resources/Barcode.jpg" alt="Barcode"></figure>
-                                    <div class="app-download">
-                                        <span>Quét mã QR để đăng nhập</span>
-                                        <ul class="colla-apps">
-                                            <li><a title="" href="https://play.google.com/store?hl=en"><img src="static/images/android.png" alt="Android">android</a></li>
-                                            <li><a title="" href="https://www.apple.com/lae/ios/app-store/"><img src="static/images/apple.png" alt="iPhone">iPhone</a></li>
-                                            <li><a title="" href="https://www.microsoft.com/store/apps"><img src="static/images/windows.png" alt="Windows">Windows</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="we-login-register">
                                 <div class="form-title">
                                     <i class="fa fa-key"></i>Đăng nhập
-                                    <span>Xin hoan nghênh người đẹp hãy đăng nhập để gia giập mạng xã hội của những người đẹp trai sinh gái</span>
+                                    <span>Xin hoan nghênh người đẹp hãy đăng nhập để gia giập mạng xã hội của những người đẹp trai xinh gái</span>
                                 </div>
                                     <sitemesh:write property="body" />
                             </div>
