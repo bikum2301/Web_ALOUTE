@@ -30,7 +30,7 @@ public class user implements Serializable {
     @Column(name = "password", columnDefinition = "varchar(255)", nullable = false)
     private String Password;
 
-    @Column(name = "profile_picture", columnDefinition = "varchar(255)", nullable = true)
+    @Column(name = "profile_picture", columnDefinition = "varchar(255)")
     private String Profile_Picture;
 
     @Column(name = "role_id", columnDefinition = "INT", nullable = false)
