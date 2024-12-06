@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-    <title>Chào người đẹp của tôi</title>
+    <title>Aloute</title>
 
     <style>
         body {
